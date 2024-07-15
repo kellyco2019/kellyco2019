@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellyco2019
 - 👀 I’m interested in frontend, reaact and angular 
-- 🌱 I’m currently learning Angular and React 
+- 🌱 Angular and React 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me kellycorreagaleano@outlook.com
 
